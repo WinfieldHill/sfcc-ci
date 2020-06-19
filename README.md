@@ -18,7 +18,7 @@ To contribute to this project, follow the [Contribution Guidelines](CONTRIBUTING
 
 Feel free to create issues and enhancement requests or discuss on the existing ones, this will help us understanding in which area the biggest need is. Please refer to documentation below before doing so.
 
-* Maintainer: @tobiaslohr
+* Maintainer: @winfieldhill
 
 # What is this repository for? #
 

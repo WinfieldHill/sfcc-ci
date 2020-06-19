@@ -1,6 +1,6 @@
 {
-  "name": "sfcc-ci",
-  "version": "2.5.0",
+  "name": "lp-sfcc-ci",
+  "version": "2.5.2",
   "description": "Command line tool to allow Continuous Integration practices with Salesforce Commerce Cloud instances",
   "main": "index.js",
   "bin": {
@@ -20,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/WinfieldHill/sfcc-ci.git"
   },
-  "author": "Tobias Lohr",
+  "author": "Winfield Hill",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/WinfieldHill/sfcc-ci#readme",
   "dependencies": {
